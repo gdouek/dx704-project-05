@@ -1,0 +1,2 @@
+I used ChatGPT to explain the search, minimax, maximin, and maze problems, help calculate the state values, and generate Python code to save the results as TSV files.
+Libraries used: pathlib (Python standard library) to save the files.
